@@ -12,7 +12,7 @@ figure.snip0061 {
   max-width: 180px;
   width: 100%;
   background: #ffffff;
-  color: #000000;
+  color: #fcf9f9;
 }
 figure.snip0061 * {
   -webkit-box-sizing: border-box;
@@ -33,9 +33,9 @@ figure.snip0061:before {
   z-index: 1;
   top: -60%;
   left: -60%;
-  background: rgba(187, 243, 245, 0.7);
+  background: rgba(0, 12, 12, 0.925);
   border: 1px solid #fff;
-  border-radius: 45%;
+  border-radius: 43%;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   -webkit-transform: skewX(-30deg) translateX(-20%);
@@ -75,8 +75,8 @@ figure.snip0061 figcaption .icons {
 figure.snip0061 figcaption .icons i {
   display: inline-block;
   font-size: 15px;
-  background: #000000;
-  color: #d48d7c;
+  background: #f5f3f3;
+  color: #df4523;
   opacity: 0;
   height: 35px;
   width: 35px;
@@ -99,16 +99,16 @@ figure.snip0061 .position {
   font-size: 0.9em;
   opacity: 1;
   font-weight: 500;
-  color: #ffffff;
-  background: #000000;
+  color: #faf1f1;
+  background: #140101;
 }
 
 
 figure.snip0061.yellow .icons i {
-  background: #924d10;
+  background: #f5f3f1;
 }
 figure.snip0061.yellow .position {
-  background: #bf6516;
+  background: #0a0500;
 }
 
 
