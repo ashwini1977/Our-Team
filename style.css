@@ -8,8 +8,8 @@ figure.snip0061 {
   position: relative;
   overflow: hidden;
   margin-left: 60px;
-  min-width: 210px;
-  max-width: 210px;
+  max-width: 310px;
+  min-width: 310px;
   width: 100%;
   background: #ffffff;
   color: #fcf9f9;
@@ -60,7 +60,7 @@ figure.snip0061 figcaption p {
   width: 100%;
 }
 figure.snip0061 figcaption h2 {
-  font-size: 1.5em;
+  font-size: 1.7em;
   font-weight: 500;
   text-transform: uppercase;
 }
