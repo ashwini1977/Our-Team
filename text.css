@@ -3,8 +3,8 @@
 
 body {
         
-        background-image: url("6.jpg");
-        background-size: auto;
+        background-image: url("12.jpg");
+        background-size:contain;
         text-align: center;
         margin: 0;
 }
