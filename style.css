@@ -8,8 +8,8 @@ figure.snip0061 {
   position: relative;
   overflow: hidden;
   margin-left: 60px;
-  max-width: 310px;
-  min-width: 310px;
+  max-width: 320px;
+  min-width: 320px;
   width: 100%;
   background: #ffffff;
   color: #fcf9f9;
@@ -134,7 +134,7 @@ figure.snip0061.hover:before {
 
 .space{
   display:grid;
-  padding:20%;
+  padding:15%;
 }
 .container {
   display: grid;
