@@ -69,20 +69,21 @@ figure.snip0061 figcaption h2 span {
 }
 
 figure.snip0061 figcaption .icons {
-  
+  margin-right: 2em;
   padding left: 0px;
   
 }
 figure.snip0061 figcaption .icons i {
-  display: inline-block;
+  display:inline-block;
   font-size: 15px;
   background: #f5f3f3;
   color: #df4523;
   opacity: 0;
-  height: 35px;
-  width: 35px;
+  height: 70px;
+  width: 70px;
   text-align: centre;
-  line-height: 35px;
+  margin-left: 0;
+  line-height: 70px;
   border-radius: 45%;
 }
 figure.snip0061 figcaption a {
@@ -130,7 +131,21 @@ figure.snip0061.hover:before {
 
 /* Demo purposes only */
 
+html, body {
+  text-align:center;
+  background-image: url("23.jpg");
+  background-size: contain;
+  width: 100%;
+ height: auto;
+ margin: 0px;
+ padding: 0px;
+ overflow-x: hidden; }
 
+ h1{
+  color: aliceblue;
+  font-family:cursive;
+  font-size:5em;
+}
 
 .space{
   display:grid;
